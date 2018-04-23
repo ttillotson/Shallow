@@ -42,6 +42,9 @@ How will we incorporate it?
   - [ ] User is able to upload a video file to be analyzed 
   - [ ] Integration of a video clipping / face cropping for analysis 
 
+## Wireframe 
+![](https://i.imgur.com/6QWlmR1.png)
+
 ## Technologies / Challenges
 ### Technologies
 * TensorFlow.js ( JavaScript )
