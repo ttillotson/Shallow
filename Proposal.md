@@ -54,6 +54,8 @@ How will we incorporate it?
   * ???
 * Scraper / Selenium
   * Necessary if grabbing the files in bulk (via zip file or torrent) leads to data corruption. The scraper would parse a given site’s HTML and grab all urls to relevant videos  
+* OpenCV
+  * Necessary if we want to automate video to frames data processing
 ###Challenges
 * Learning Python, Keras, TensorFlow.js, and core concepts of machine learning
 * Data bias
