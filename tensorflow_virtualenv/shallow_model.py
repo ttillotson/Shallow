@@ -10,12 +10,12 @@ from keras.layers import Activation, Dropout, Flatten, Dense
 
 img_width, img_height = 224, 224
 
-training_data_dir = 'tbd'
-validation_data_dir = 'tbd'
-num_training_samples = 50
-num_testing_samples = 50
-epochs = 50 
-batch_size = 5
+TRAINING_DATA_DIR = 'tbd'
+VALIDATION_DATA_DIR = 'tbd'
+NUM_TRAINING_SAMPLES = 50
+NUM_VALIDATION_SAMPLES = 10
+EPOCHS = 50
+BATCH_SIZE = 5
 
 if K.image_data_format() == 'channels_first':
     input_shape = (3, img_width, img_height)
