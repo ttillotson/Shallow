@@ -22,4 +22,4 @@ It should be noted though, that our model was trained on the data available to u
 
 ![Demo-Gif]()
 
-Users will be able to upload a video, select the face crops they want to test, and once they have 20, run them through the model. From there, the user will wait as the model processes the image and then told whether our model believes the image is fake or not.
+Users will be able to upload a video, select the face crops they want to test, and once they have 20, run them through the model. From there, the user will wait as the model processes the image and will have the image's authenticity appear.
