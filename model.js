@@ -1,10 +1,11 @@
 function runModel(video, callModel){
     const canvas = document.getElementById('canvas');
     const selectedImages = videoSlicer(20);
-    // const results = callModel(selectedImages);
+    const results = callModel(selectedImages);
     
     function videoSlicer(numFrames) {
         let cropped = []; // stores all crops to be passed model
+        const totalVideoFrames = null; // create an array of numbers of every frame
 
         const _imageCropper = () => {
             let frames = []; // stores all frames to be passed to user; will keep selected images
