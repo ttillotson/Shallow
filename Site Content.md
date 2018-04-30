@@ -37,6 +37,8 @@ arXiv:1409.1556
 
 ### Tommy Pham
 
+Tommy is an analytical thinker that enjoys the challenges of debugging new code. His years of experience in the military left him with the problem-solving ability and head-on approach to problems that may intimidate others using Ruby, Ruby on Rails, React, Redux, Javascript, Python, and HTML5/CSS3. The firey passion engendered for the software industry is the result of a new found love for technology and how open-sourced the community and its tools are. He hopes to share this passion with many others and show that the only impossibilities in software is limited by the individuals creativity.
+
 ### Travis Tillotson
 
 Travis is full-stack developer with experience in React, Redux, Ruby on Rails, Javascript and Python. With a background in psychology, he enjoys solving problems,  understanding complex relationships and learning about technology. 
